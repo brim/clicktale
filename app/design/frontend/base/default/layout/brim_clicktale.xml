@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<layout>
+    <default>
+        <reference name="after_body_start">
+            <block type="brim_clicktale/top" name="clicktale.top" />
+        </reference>
+
+        <reference name="before_body_end">
+            <block type="brim_clicktale/bottom" name="clicktale.bottom" />
+        </reference>
+    </default>
+
+
+</layout>

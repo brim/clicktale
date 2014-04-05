@@ -1,0 +1,3 @@
+app/etc/modules/Brim_ClickTale.xml                              app/etc/modules/Brim_ClickTale.xml
+app/code/community/Brim/ClickTale                               app/code/community/Brim/ClickTale
+app/design/frontend/base/default/layout/brim_clicktale.xml      app/design/frontend/base/default/layout/brim_clicktale.xml

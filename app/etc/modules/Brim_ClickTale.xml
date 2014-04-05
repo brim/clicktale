@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Brim_ClickTale>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Brim_ClickTale>
+    </modules>
+</config>
